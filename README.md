@@ -1,2 +1,2 @@
 # WT
-for publish Marwadi University web page for Demo
+THis is demo for publish Marwadi University web page
